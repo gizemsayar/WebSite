@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+        "user_type":"1",
+        "username":"gizemsayar",
+        "password":"1234"
+    },
+    {
+        "user_type":"2",
+        "username":"senolcoskun",
+        "password":"456"
+    },
+    {
+        "user_type":"3",
+        "username":"nedimtas",
+        "password":"789"
+    }
+  ]
+}

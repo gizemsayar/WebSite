@@ -1,0 +1,35 @@
+.header {
+    padding-right: 5%;
+    padding-left: 1%;
+   display: flex;
+}
+.card .header{
+    display: flex;
+}
+.card .image{
+height: 70px;
+width: 60px;
+}
+.card .write{
+    position:"center";
+}
+.card .image-gallery {
+   display: flex;
+   height: 15vw;
+}
+.card .image-gallery .card {
+    height: 50%;
+}
+.card .image-gallery .card .image{
+    height: 5vw;
+}
+.card .image-gallery .card .image-footer {
+    height: 5vw;
+    width: 15vw;
+}
+.card .font {
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    padding-left: 1vw;
+}
